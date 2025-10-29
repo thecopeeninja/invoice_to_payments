@@ -1,0 +1,11 @@
+payment_id,payer_name,payment_date,currency,payment_amount,memo,reference_number,bank_txn_id
+PMT-9001,Acme Pvt. Ltd,2025-08-28,INR,10000.00,Clearing INV-1001 via UPI,NA,TXN-A1
+PMT-9002,Beta Retailers,2025-09-03,INR,8450.00,Payment for Aug invoices,BETA-REF-9,TXN-B1
+PMT-9003,Gamma Ind.,2025-09-02,INR,12000.00,GAM-PO-009 settlement,GAM-PO-009,TXN-C1
+PMT-9004,Acme Pvt Ltd,2025-09-05,INR,5000.00,Part payment for Aug,NA,TXN-A2
+PMT-9005,Delta Co,2025-09-06,INR,16000.00,"Includes bank fee, for invoice ACME?",NA,TXN-D1
+PMT-9006,Epsilon Traders,2025-09-07,INR,9999.50,EPS-PO-10,NA,TXN-E1
+PMT-9007,Zeta Foods LLC,2025-09-08,USD,200.00,Invoice payment,Z-EXT-1,TXN-Z1
+PMT-9008,Acme Private Limited,2025-09-09,INR,10000.00,for invoice 1004,NA,TXN-A3
+PMT-9009,Beta Retailers,2025-09-03,INR,8450,August dues,NA,TXN-B1
+PMT-9010,Theta Global,2025-09-04,INR,970.00,less 30 fee for INV-1010,NA,TXN-T1
