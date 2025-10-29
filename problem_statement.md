@@ -1,4 +1,4 @@
-# Problem Brief — Invoice ↔ Payment Matching (Interview)
+# Problem Brief — Invoice ↔ Payment Matching
 
 **Context.** You are implementing a core Treasury/AR reconciliation capability: matching inbound bank payments to outstanding customer invoices. Real data are messy: payment memos often omit the invoice id, amounts may include fees, dates drift by a few days, and customer names vary slightly.
 
