@@ -1,0 +1,16 @@
+# From your .gitignore
+__pycache__/
+*.pyc
+.venv/
+.out/
+out/
+.DS_Store
+
+# Docker-specific files
+Dockerfile
+.dockerignore
+
+# Other development files not needed in the final image
+README.md
+problem_statement.md
+tests/
